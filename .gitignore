@@ -1,9 +1,11 @@
-../../../Music/Twitter/venv/
+venv/
 .idea/
 
-media/
-static/
+backend/media/
+backend/static/
 
 **/__pycache__/**
 
 .env
+.env.prod
+.env.db.prod
