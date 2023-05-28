@@ -15,7 +15,7 @@ services:
     environment:
       - POSTGRES_DB=django_db
       - POSTGRES_USER=django_user
-      - POSTGRES_PASSWORD=12345
+      - POSTGRES_PASSWORD=qweasd!23
     volumes:
       - postgres_data:/var/lib/postgresql/data/
 
